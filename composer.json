@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/optaros-traceview",
+    "name": "OpenMageModuleFostering\/optaros-traceview",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "TraceView profiling through Varien_Profiler",
     "authors": [
-    {
-        "name": "Olivier Pepin",
-        "email": "opepin@gmail.com"
-    }
-],
+        {
+            "name": "Olivier Pepin",
+            "email": "opepin@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
